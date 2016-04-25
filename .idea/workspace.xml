@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e54991-558d-4114-84c2-a9d8998657c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeleniumTest/webtest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fetch.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UnitTest/CoffeeControllerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UnitTest/InputTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UnitTest/PersonTest.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTest/FetchTest.php" afterPath="$PROJECT_DIR$/UnitTest/FetchTest.php" />
     </list>
     <ignored path="coffe.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FetchTest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnitTest/FetchTest.php">
+      <file leaf-file-name="fetch.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/fetch.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fetch.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/fetch.php">
+      <file leaf-file-name="FetchTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnitTest/FetchTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="468">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -58,8 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SeleniumTest/webtest.php" />
-        <option value="$PROJECT_DIR$/UnitTest/FetchTest.php" />
         <option value="$PROJECT_DIR$/app/fetch.php" />
+        <option value="$PROJECT_DIR$/UnitTest/FetchTest.php" />
       </list>
     </option>
   </component>
@@ -196,7 +192,7 @@
       <updated>1459880235832</updated>
       <workItem from="1459880247734" duration="577000" />
       <workItem from="1461464428213" duration="356000" />
-      <workItem from="1461610577892" duration="5139000" />
+      <workItem from="1461610577892" duration="5335000" />
     </task>
     <task id="LOCAL-00001" summary="14 commit&#10;">
       <created>1461615207015</created>
@@ -205,11 +201,18 @@
       <option name="project" value="LOCAL" />
       <updated>1461615207015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14 commit&#10;">
+      <created>1461615730777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461615730777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6072000" />
+    <option name="totallyTimeSpent" value="6268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1032" extended-state="0" />
@@ -358,18 +361,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTest/FetchTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/fetch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest/FetchTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding />
         </state>
       </provider>

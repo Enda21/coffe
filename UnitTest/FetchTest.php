@@ -24,4 +24,8 @@ class Fetch_Test extends PHPUnit_Framework_TestCase
     {
         $this->fetch->run();
     }
+    public function testDownloadIfFound()
+    {
+        $this->fetch->run('query');
+    }
 }

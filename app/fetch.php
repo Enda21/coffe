@@ -8,8 +8,7 @@
 class fetch{
     //array with a key value
     public static $path = array(
-        'jquery' => 'http://code.jquery.com/jquery.js'
-    );
+        'jquery' => 'http://code.jquery.com/jquery.js');
     //run the 
     public function run($query = null)
     {
